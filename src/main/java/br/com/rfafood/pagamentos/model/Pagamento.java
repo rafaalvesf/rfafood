@@ -48,7 +48,7 @@ public class Pagamento {
     @NotNull
     @Enumerated(EnumType.STRING)
     private Status status;
-    
+
     @NotNull
     private Long pedidoId;
 
